@@ -1,1 +1,14 @@
-# matlipowicz-profile
+# Hello there! 👋
+
+### ℹ️ About me!
+
+🧑‍🎓  I'm Mateusz Lipowicz, aspiring Front-end developer. Crrently I'm finishing last semester of my master degree on AGH University of Science and Technology in the field of studies related to Production and Quality Engineering. 
+
+💻  I felt in love with web development, especially in Front-end. I have been developing programming skills for the last six months, accurately in JavaScript, HTML and CSS (SCSS). Any kind of problem which I can undertake makes me more curious and with that more motivated to solve it. I have to make this done by the end of a day, becouse without that I'll not be able to sleep.
+
+🧔  Currently I'm creating my portfolio site to showacase projects in it. From day to day I've become better in understanding and implementing new stuff from JavaScript lessons. My plan for the future is to learn React/Angular, styled-components, TypeScript, Redux and obviously stuff related to, a backend like node.js. 
+
+🏐  Outside of programming, I'm lifting weights and from time to time, I'm playing volleyball which was my passion years ago and I had successes in this field. 
+
+
+REST OF THE DESCRIPTION OF MY PERSON STILL IN PROGRESS...
