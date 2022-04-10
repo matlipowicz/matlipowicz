@@ -11,4 +11,6 @@
 🏐  Outside of programming, I'm lifting weights and from time to time, I'm playing volleyball which was my passion years ago and I had successes in this field. 
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 REST OF THE DESCRIPTION OF MY PERSON IS STILL IN PROGRESS...
