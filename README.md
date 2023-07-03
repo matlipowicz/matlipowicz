@@ -7,7 +7,7 @@
       <img alt="Endpoint Badge" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
     </a>
   </div>
-  <h1>
+  <h1 align="center">
     Hello there! 
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDZiaDQyYmEybHhybHF3ajloN205NzBjMmprMXpocm1xMnpkb2RxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" height="50"/>
   </h1>
@@ -15,7 +15,7 @@
 <section id="about" align="center">
   <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" alt="about-gif" width="500" height="300"/>
 </section>
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
   ### :man_technologist: About me:
   I am aspiring front-end developer, currently employed as Web Product Implementation Specialist working on behalf of Google.
 
