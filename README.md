@@ -13,13 +13,16 @@ If you want to reach me :telephone: :
 <a href="https://www.linkedin.com/in/mateusz-lipowicz/">
   <img align="left" alt="linkedin icon" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="mailto:matlipowicz@gmail.com">
+  <img align="left" alt="gmail icon" width="40px" src="https://www.svgrepo.com/svg/303161/gmail-icon-logo" />
+</a>
 
 <br />
   <img align="right" alt="GIF" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="500" height="320" />
 
-- 💼 In case You want to contact, here is my 📧 [Click to send direct email](mailto:matlipowicz@gmail.com) 
+💼 In case You want to contact, here is my 📧 [Click to send direct email](mailto:matlipowicz@gmail.com) 
   
-🛠️ languages and tools:
+🛠️ languages and tools I've worked with:
 
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
