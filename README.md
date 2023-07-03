@@ -7,18 +7,16 @@
 :telephone: If you want to reach me:
 
 <section id="contact">
-
-<a href="https://discord.com/users/542077287449886724">
-  <img align="left" alt="discord icon" width="40px" height="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-
-<a href="https://www.linkedin.com/in/mateusz-lipowicz/">
-  <img align="left" alt="linkedin icon" width="40px" height="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="mailto:matlipowicz@gmail.com">
-  <img align="left" alt="gmail icon" width="40px" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/google-gmail.svg" />
-</a>
-
+  <a href="https://discord.com/users/542077287449886724">
+    <img align="left" alt="discord icon" width="40px" height="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/mateusz-lipowicz/">
+    <img align="left" alt="linkedin icon" width="40px" height="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  </a>
+  <a href="mailto:matlipowicz@gmail.com">
+    <img align="left" alt="gmail icon" width="40px" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/google-gmail.svg" />
+  </a>
 </section>
 
 <br />
@@ -42,7 +40,7 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Supabase-Dark.svg" title="Supabase" alt="Supabase" width="40" height="40"/>&nbsp;
 </section>
 
-<section id="values" >
+<section id="values">
   <h4>Key Values</h4>
   <ul>
     <li>:handshake: I've always believed that teamwork will bring bigger success.</li>  
