@@ -4,7 +4,9 @@
 
 <h3>I am currently working on mastering :open_book: React and TypeScript along with Supabase.</h3> :
 
-If you want to reach me :telephone: :
+:telephone: If you want to reach me:
+
+<div>
 
 <a href="https://discord.com/users/542077287449886724">
   <img align="left" alt="discord icon" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -14,8 +16,10 @@ If you want to reach me :telephone: :
   <img align="left" alt="linkedin icon" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="mailto:matlipowicz@gmail.com">
-  <img align="left" alt="gmail icon" width="40px" src="https://www.svgrepo.com/svg/303161/gmail-icon-logo" />
+  <img align="left" alt="gmail icon" width="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/google-gmail.svg" />
 </a>
+
+</div>
 
 <br />
   <img align="right" alt="GIF" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="500" height="320" />
