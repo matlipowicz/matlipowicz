@@ -40,7 +40,7 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Supabase-Dark.svg" title="Supabase" alt="Supabase" width="40" height="40"/>&nbsp;
 </section>
 
-<section id="values">
+<div>
   <h4>Key Values</h4>
   <ul>
     <li>:handshake: I've always believed that teamwork will bring bigger success.</li>  
@@ -48,7 +48,7 @@
     <li>:key: Problem-solving has always been a core part of my identity</li>  
     <li>:computer: I would be pleasured to start working as Front end developer</li>  
   </ul>
-</section>
+</div>
 
 
 
