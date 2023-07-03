@@ -1,6 +1,6 @@
 <header id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWJ6MGpyN2VyMTB1eHMwZnZleTQ1c3NweXZnc2g4aHM3NjFid2o2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
-  <div id="badges">
+  <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/mateusz-lipowicz/" alt="header-gif">
       <img alt="Endpoint Badge" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
     </a>
