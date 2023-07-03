@@ -8,7 +8,7 @@
     </a>
   </div>
   <h1 align="center">
-    Hello there! 
+    Hello stranger! 
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDZiaDQyYmEybHhybHF3ajloN205NzBjMmprMXpocm1xMnpkb2RxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" height="50"/>
   </h1>
 </header>
@@ -17,5 +17,5 @@
 </section>
 ---
 ### :man_technologist: About me:
-  I am aspiring front-end developer, currently employed as Web Product Implementation Specialist working on behalf of Google.
+ <p> I am an aspiring front-end developer, currently employed as a Web Product Implementation Specialist working on behalf of Google.</p>
 
