@@ -16,6 +16,6 @@
   <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" alt="about-gif" width="500" height="300"/>
 </section>
 ---
-### :man_technologist: About me:
+<h2>:man_technologist: About me: </h2>
  <p> I am an aspiring front-end developer, currently employed as a Web Product Implementation Specialist working on behalf of Google.</p>
 
