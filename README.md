@@ -1,5 +1,7 @@
 <header id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWJ6MGpyN2VyMTB1eHMwZnZleTQ1c3NweXZnc2g4aHM3NjFid2o2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
+  <div align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWJ6MGpyN2VyMTB1eHMwZnZleTQ1c3NweXZnc2g4aHM3NjFid2o2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
+  </div>
   <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/mateusz-lipowicz/" alt="header-gif">
       <img alt="Endpoint Badge" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
@@ -7,7 +9,7 @@
   </div>
   <h1>
     Hello there! 
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDZiaDQyYmEybHhybHF3ajloN205NzBjMmprMXpocm1xMnpkb2RxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif"/>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDZiaDQyYmEybHhybHF3ajloN205NzBjMmprMXpocm1xMnpkb2RxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="700" height="400"/>
   </h1>
 </header>
 <section id="about" align="center">
