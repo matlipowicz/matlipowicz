@@ -1,8 +1,10 @@
-### Hello stranger 👀, I am Mateusz Lipowicz
+# Hello stranger 👀, I am Mateusz Lipowicz
 
-## **I'm an aspiring front-end developer who loves to program in JavaScript**. Currently, I am employed as a Web Product Implementation Specialist working on behalf of Google based in Poland. 
+### **I'm an aspiring front-end developer who loves to program in JavaScript**. Currently, I am employed as a Web Product Implementation Specialist working on behalf of Google based in Poland. 
 
-# I am currently working on mastering React and TypeScript.
+### I am currently working on mastering React and TypeScript along with Supabase.
+
+If you want to reach me:
 
 <a href="https://discord.com/users/542077287449886724">
   <img align="left" alt="discord icon" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -14,6 +16,8 @@
 
 <br />
   <img align="right" alt="GIF" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="500" height="320" />
+
+- 💼 In case You want to contact, here is my 📧 [Click to send direct email](mailto:matlipowicz@gmail.com) 
   
 🛠️ languages and tools:
 
@@ -31,7 +35,7 @@
 
 
 
-- 💼 In case You want to contact, [email](mailto:matlipowicz@gmail.com) :)
+
 
 
 
