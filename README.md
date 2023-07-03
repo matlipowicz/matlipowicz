@@ -1,6 +1,6 @@
 <h1 align="center">Hello stranger 👀, I am Mateusz Lipowicz</h1> 
 
-<h2>I'm an aspiring front-end developer who loves to program in JavaScript. I am employed as a Web Product Implementation Specialist working on behalf of Google.</h2>
+<h2>I'm an aspiring front-end developer who loves to program in JavaScript. Currently I am employed as a Web Product Implementation Specialist working on behalf of Google.</h2>
 
 <h3>I am currently working on mastering :man_student: React and TypeScript along with Supabase.</h3>
 
@@ -39,6 +39,7 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title="GIT" alt="GIT" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Supabase-Dark.svg" title="Supabase" alt="Supabase" width="40" height="40"/>&nbsp;
 </section>
+------
 
 <div>
   <h4>Key Values</h4>
