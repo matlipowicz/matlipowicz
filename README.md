@@ -23,9 +23,10 @@
 
 <br />
   <img align="right" alt="GIF" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="500" height="320" />
-  
-🛠️ languages and tools I've worked with:
 
+<br/>
+
+<h4>🛠️ languages and tools I've worked with:</h4>
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
