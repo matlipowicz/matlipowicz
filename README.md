@@ -12,8 +12,9 @@
 </header>
 <section id="about">
   <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" alt="about-gif"/>
+
+</section>
   --- 
   ### :man_technologist: About me:
   <p>I am aspiring front-end developer, currently employed as Web Product Implementation Specialis</p>
-</section>
 
