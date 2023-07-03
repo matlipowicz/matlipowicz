@@ -10,11 +10,10 @@
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDZiaDQyYmEybHhybHF3ajloN205NzBjMmprMXpocm1xMnpkb2RxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif"/>
   </h1>
 </header>
-<section id="about">
+<section id="about" align="center">
   <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" alt="about-gif"/>
-
 </section>
-  --- 
+  ---
   ### :man_technologist: About me:
   <p>I am aspiring front-end developer, currently employed as Web Product Implementation Specialis</p>
 
