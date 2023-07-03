@@ -1,10 +1,10 @@
-# Hello stranger 👀, I am Mateusz Lipowicz
+<h1 align="center">Hello stranger 👀, I am Mateusz Lipowicz</h1> 
 
-### **I'm an aspiring front-end developer who loves to program in JavaScript**. Currently, I am employed as a Web Product Implementation Specialist working on behalf of Google based in Poland. 
+<h3>I'm an aspiring front-end developer who loves to program in JavaScript**. I am employed as a Web Product Implementation Specialist working on behalf of Google based in Poland.</h3>
 
-### I am currently working on mastering React and TypeScript along with Supabase.
+<h3>I am currently working on mastering :open_book: React and TypeScript along with Supabase.</h3> :
 
-If you want to reach me:
+If you want to reach me :telephone: :
 
 <a href="https://discord.com/users/542077287449886724">
   <img align="left" alt="discord icon" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
