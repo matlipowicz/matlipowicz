@@ -39,7 +39,7 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title="GIT" alt="GIT" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Supabase-Dark.svg" title="Supabase" alt="Supabase" width="40" height="40"/>&nbsp;
 </section>
-------
+
 
 <div>
   <h4>Key Values</h4>
@@ -51,6 +51,7 @@
   </ul>
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
