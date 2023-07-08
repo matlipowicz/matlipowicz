@@ -1,6 +1,6 @@
 <h1 align="center">Hello stranger 👀, I am Mateusz Lipowicz</h1> 
 
-<h2>I'm an aspiring front-end developer who loves to program in JavaScript. Currently I am employed as a Web Product Implementation Specialist working on behalf of Google.</h2>
+<h2>I'm an aspiring front-end developer who loves to program in JavaScript. Currently, I am employed as a Web Product Implementation Specialist working on behalf of Google.</h2>
 
 <h3>I am currently working on mastering :man_student: React and TypeScript along with Supabase.</h3>
 
@@ -54,11 +54,11 @@
 <h4>:bar_chart: My statistics</h4>
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=matlipowicz&theme=tokyonight)](https://git.io/streak-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matlipowicz)]
-
+<section id="statistics" align="center">
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=matlipowicz&theme=tokyonight)](https://git.io/streak-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matlipowicz)]
+</section>
 
 
 
