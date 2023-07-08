@@ -56,7 +56,7 @@
 
 <section id="statistics" align="center">
   
-  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=matlipowicz&theme=tokyonight)]
+  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=matlipowicz&theme=tokyonight)
 
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matlipowicz)
