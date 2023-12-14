@@ -1,6 +1,6 @@
 <h1 align="center">Hello stranger 👀, I am Mateusz Lipowicz</h1> 
 
-<h2>I'm an aspiring front-end developer who loves to program in JavaScript. Currently, I am employed as a Web Product Implementation Specialist working on behalf of Google.</h2>
+<h2>I'm an aspiring front-end developer who loves to program in JavaScript. Currently, I am employed as an Associate Software Developer at SmartBear.</h2>
 
 <h3>I am currently working on mastering :man_student: React and TypeScript along with Supabase.</h3>
 
